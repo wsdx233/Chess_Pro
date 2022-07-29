@@ -1,7 +1,12 @@
-中国象棋 - in html5
+# 中国象棋Pro - in html5
 ===========
 
-作者：一叶孤舟<br>
+修改版中国象棋
+by Wsdx233
+
+## 原README文件:
+
+原作者：一叶孤舟<br>
 联系：itlwei@163.com  QQ:28701884<br>
 Demo：https://itlwei.github.io/Chess/
 
